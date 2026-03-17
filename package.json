@@ -31,14 +31,14 @@
         "scraper",
         "zoro.to",
         "aniwatch.to",
-        "hianime.to",
+        "https://aniwatchtv.to/",
         "hianimez.to"
     ],
     "author": "https://github.com/ghoshRitesh12",
     "license": "MIT",
     "dependencies": {
         "@hono/node-server": "^1.14.2",
-        "aniwatch": "^2.24.3",
+        "aniwatch": "^2.27.9",
         "dotenv": "^16.5.0",
         "envalid": "^8.0.0",
         "hono": "^4.7.10",
